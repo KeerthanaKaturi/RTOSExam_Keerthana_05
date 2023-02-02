@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/batch-1/Desktop/RTOS_KaturiKeerthana_05/q1/build/CMakeFiles/bootloader
+/home/batch-1/Desktop/RTOS_KaturiKeerthana_05/q1/build/CMakeFiles/bootloader.rule
+/home/batch-1/Desktop/RTOS_KaturiKeerthana_05/q1/build/CMakeFiles/bootloader-complete.rule
+/home/batch-1/Desktop/RTOS_KaturiKeerthana_05/q1/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/batch-1/Desktop/RTOS_KaturiKeerthana_05/q1/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/batch-1/Desktop/RTOS_KaturiKeerthana_05/q1/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/batch-1/Desktop/RTOS_KaturiKeerthana_05/q1/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/batch-1/Desktop/RTOS_KaturiKeerthana_05/q1/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/batch-1/Desktop/RTOS_KaturiKeerthana_05/q1/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/batch-1/Desktop/RTOS_KaturiKeerthana_05/q1/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
